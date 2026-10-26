@@ -3,7 +3,7 @@
 Cliente desde el 25-oct-2026. Vamos a hacer muchas cosas para él (webs y más).
 **La memoria principal del proyecto es su libro "The Container Home II"** (avance
 de septiembre), más la carpeta de Drive con fotos y textos por proyecto. Este repo
-(`IrizaD/taufic-gashaan`, privado) es la fuente única: todo el material está aquí.
+(`IrizaD/taufic-gashaan`, **público** desde el 26-oct-2026 por decisión de David) es la fuente única: todo el material está aquí.
 
 | Archivo | Para qué |
 |---|---|
