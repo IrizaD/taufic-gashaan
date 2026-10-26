@@ -33,13 +33,13 @@ Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nom
   constructora**: aparece como quien construye y fabrica, no como la marca.
 - El contenedor es un material y un sistema constructivo de su obra, no su identidad.
   No vestir el diseño de contenedor ni centrar el mensaje en "cajas de metal".
-- **Taufic lo confirmó (reunión del 24-oct-2026):** "Taufic Gashaan es la marca de
+- **Taufic hijo lo confirmó (reunión del 24-oct-2026):** "Taufic Gashaan es la marca de
   diseño. Esa marca de diseño tiene una constructora, que es Con Contenedores".
 - Pendiente confirmar el nombre exacto de la firma ("Taufic Gashaan Exclusive Design"
   o solo "Taufic Gashaan").
 - **Matiz para la venta:** en los embudos de producto (por ejemplo, oficinas) el
   contenedor **sí es el producto** y va al frente, con el mensaje de lujo, modularidad,
-  movilidad y rapidez (ver "Lo que dijo Taufic"). La firma sigue siendo quien diseña.
+  movilidad y rapidez (ver "Lo que dijo Taufic hijo"). La firma sigue siendo quien diseña.
 
 ## Quién es
 
@@ -70,6 +70,23 @@ Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nom
   (No está claro si tiene o tuvo una franquicia; preguntar.)
 - Socio de un grupo inmobiliario de la Riviera Maya (Sebastián, Casa Xulha) en el
   desarrollo **Eco Hábitat**: casas con contenedor en Puerto Morelos.
+
+### Padre e hijo se llaman igual (David, 26-oct-2026)
+
+- **Padre e hijo se llaman Taufic Gashaan** (la escritura exacta está por confirmar).
+- **El equipo de David trabaja y graba con el hijo.** Él es quien estuvo en la
+  reunión del 24-oct y quien protagoniza la VSL.
+- En el libro, el hijo firma el texto "Trabajar con Taufic Gashaan" como **"Gashaan
+  Basil · Arquitecto"** y llama al otro "mi padre". El autor del libro y del epígrafe es
+  el padre.
+- En copy, distinguirlos cuando importe (por ejemplo, "Taufic Gashaan hijo" o
+  "Arq. Gashaan Basil"). Cómo se presenta cada uno está pendiente de confirmar.
+
+### "Bunker" son dos cosas distintas
+
+- **Casa Bunker** (y el proyecto Torre Bunker) son obras de Taufic.
+- **El Búnker Sinergético** es la oficina de Sinergéticos. En la reunión, "si aquí en
+  el búnker están rentando…" se refiere a esa oficina, no a la casa.
 
 ### Ortografía del nombre
 Canónico: **Taufic Gashaan** (portada, índice y casi todo el texto). El avance
@@ -210,9 +227,9 @@ Estos temas se repiten en el libro. Son la materia prima del mensaje:
 Tono del libro: aspiracional, emotivo, con orgullo mexicano. Las obras llevan
 nombre propio de lugar o concepto (Bosque, Lago, Bunker, Palenque, Pompeya…).
 
-## Lo que dijo Taufic (reunión del 24-oct-2026)
+## Lo que dijo Taufic hijo (reunión del 24-oct-2026)
 
-Reunión con Taufic y el equipo de David para arrancar el embudo. Las notas comerciales
+Reunión con **Taufic Gashaan hijo** (con quien trabaja el equipo) y el equipo de David para arrancar el embudo. Las notas comerciales
 y personales (precios, prospectos con nombre, logística) están en `PRIVADO.md`, que solo
 vive en la Mac de David porque este repo es público.
 
@@ -343,6 +360,9 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
 ## Proyectos (lo que construyamos va aquí)
 
 ### Embudo VSL · Oficinas con contenedores (acordado el 24-oct-2026, en curso)
+- **Guion de la VSL (26-oct-2026):** https://claude.ai/artifact/1eqxjBL7h87VRXwTjY3U9j
+  (documento compartible: ficha, guion en 7 bloques de ~6 min, ganchos alternativos,
+  tomas de apoyo, preguntas de calificación y 11 datos por confirmar). Lo graba Taufic hijo.
 - **Por qué oficinas primero:** es el producto más mainstream y el público que mejor
   conoce el equipo (empresas, buenos negocios). Las demás ramas tendrán su propio embudo
   después.
