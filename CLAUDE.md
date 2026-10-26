@@ -15,6 +15,7 @@ de septiembre), más la carpeta de Drive con fotos y textos por proyecto. Este r
 | `libro/` | El PDF del avance (212 pp.) |
 | `fuentes/` | Texto crudo del libro, descripciones, planos y video del Drive, manifiestos JSON |
 | `herramientas/` | `preparar_material.py` regenera `fotos/`, `libro/` y `fuentes/drive/` desde los originales |
+| `PRIVADO.md` | **Solo local** (en `.gitignore`): precios, prospectos con nombre, logística y notas personales de reuniones |
 
 Originales en resolución completa: Drive del estudio,
 https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv. En la Mac
@@ -32,8 +33,13 @@ Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nom
   constructora**: aparece como quien construye y fabrica, no como la marca.
 - El contenedor es un material y un sistema constructivo de su obra, no su identidad.
   No vestir el diseño de contenedor ni centrar el mensaje en "cajas de metal".
+- **Taufic lo confirmó (reunión del 24-oct-2026):** "Taufic Gashaan es la marca de
+  diseño. Esa marca de diseño tiene una constructora, que es Con Contenedores".
 - Pendiente confirmar el nombre exacto de la firma ("Taufic Gashaan Exclusive Design"
   o solo "Taufic Gashaan").
+- **Matiz para la venta:** en los embudos de producto (por ejemplo, oficinas) el
+  contenedor **sí es el producto** y va al frente, con el mensaje de lujo, modularidad,
+  movilidad y rapidez (ver "Lo que dijo Taufic"). La firma sigue siendo quien diseña.
 
 ## Quién es
 
@@ -204,6 +210,83 @@ Estos temas se repiten en el libro. Son la materia prima del mensaje:
 Tono del libro: aspiracional, emotivo, con orgullo mexicano. Las obras llevan
 nombre propio de lugar o concepto (Bosque, Lago, Bunker, Palenque, Pompeya…).
 
+## Lo que dijo Taufic (reunión del 24-oct-2026)
+
+Reunión con Taufic y el equipo de David para arrancar el embudo. Las notas comerciales
+y personales (precios, prospectos con nombre, logística) están en `PRIVADO.md`, que solo
+vive en la Mac de David porque este repo es público.
+
+### Cómo está organizado su negocio
+
+**Taufic Gashaan** (firma de diseño) → **Con Contenedores** (constructora), con estas ramas:
+
+1. **Residencial de lujo:** casas como las del libro.
+2. **Proyectos móviles:** departamentos y piezas armables que se trasladan.
+3. **Oficinas:** de uno o dos módulos y coworkings, móviles o fijas.
+4. **Institucional:** para empresas. Oficinas para empleados, comedores, ampliaciones
+   de bodega y espacios en patios industriales.
+5. **Proyectos especiales:** fraccionamientos, torres en la playa, hoteles, salones de
+   eventos y hospitales.
+
+También hay **productos dentro de un contenedor** que funcionan como equipo, no como
+espacio habitable: una línea de producción industrial que llega armada, una planta que
+recicla y purifica agua con un biodigestor compartido entre varias casas, y una planta
+de energía con paneles solares, generadores y baterías. Hoy no es el foco de venta, pero
+sirve para contenido orgánico.
+
+### Su filosofía, en sus palabras (materia prima para copy)
+
+- **Por qué el segundo libro es así:** el primero salió "muy arquitectónico: planos,
+  fotos de arquitectura, una descripción del proyecto". Les pareció soso. "La
+  arquitectura no solo es el inmueble… lo que sí cambia son vidas". Por eso el segundo
+  cuenta la experiencia de cada cliente. **Él mismo dice que el libro es el ADN de la marca.**
+- **Odia la jerga de arquitecto:** "Hay muchos arquitectos que son muy mamones… 'la
+  inspiración de los elementos, que entra un vano con luz'… a la gente le caga eso. Pues
+  es una ventana que entra luz y punto". **Regla de copy: hablar claro, de necesidades y
+  de vida, nunca en lenguaje rebuscado de arquitecto.**
+- **El arquitecto resuelve necesidades** "de una manera armoniosa, creativa… que cumpla
+  con tus necesidades, pero a la vez se vea bonito".
+- **La casa que crece con tu vida (modular):** "no eres la misma persona con la que
+  construiste la casa". Ejemplos suyos:
+  - Empiezas con lo esencial y vas sumando: la recámara del hijo, "tu club de Toby".
+  - Una casa grande en varios núcleos conectados: uno para los papás cuando sean
+    mayores y otros para cada hijo, con áreas comunes (alberca, terraza) que se
+    comparten y entradas independientes.
+  - En lugar de vender la casa grande al envejecer, te quedas con un ala y el resto se
+    divide para los hijos.
+  - Clave: **planear la escalabilidad desde el principio**, con espacios y conexiones
+    hidráulicas prediseñados, para crecer "sin parches, sin ser invasivo, sin cochinero".
+  - "No significa que vives en el espacio de un contenedor. Se abren, se cortan, se
+    modifican". En palabras de David: "vas poniéndole bloques a tu vida".
+- **Movilidad:** la obra se fabrica en otro lado y en sitio solo se instala. Si te mudas,
+  te la llevas: "en vez de que la infraestructura se pierda… te llevas toda la
+  infraestructura y la pones allá". Sirve para oficinas, estudios y casas.
+- **Datos técnicos que mencionó:** los contenedores usados que se compran ya sirvieron
+  20-30 años en el mar; se pueden apilar hasta diez; un contenedor de 40' mide unos 12 m;
+  se puede montar un segundo piso sobre una casa existente, con refuerzos si la casa es vieja.
+
+### Reglas de mensaje que salieron de la reunión
+
+- **Nunca "vive en un contenedor porque es más barato".** Taufic: "que no sea 'vente a
+  vivir en un contenedor porque es más barato', sino que tengas estas bondades, este lujo,
+  estos acabados". David: "No es como que el contenedor sea barato. Eso es algo que
+  queremos cambiar en comunicación".
+- **Lo reciclado sí, en positivo:** "darle otro uso que no fue para el que se diseñó".
+- **Ángulos que funcionan:** modular, móvil, rápido, sin obra sucia en tu casa ("no
+  quieres cochinero de albañiles"), versátil.
+- **No prometer en copy** cosas legales o de permisos (por ejemplo, "sin permiso de
+  construcción") sin validarlo antes con Taufic.
+- Ya circula en sus redes un video que dice "la firma de diseño que construye como si
+  fueran Legos".
+
+### Lo que dijo sobre su presencia digital
+
+- **No tiene página web: la dio de baja.** Le urge.
+- Otro proveedor le propuso una plantilla "toda blanca con carruseles" y la rechazó.
+- Tiene testimonios en video de clientes de oficinas y videos de montajes con grúa
+  (pendiente que los mande).
+- El PDF del libro que entregó **no es la versión final**: todavía tiene correcciones.
+
 ### Lenguaje visual del libro
 Fotografía de arquitectura **nocturna o en hora azul** con iluminación cálida
 interior; cielos morados y azules; ladrillo aparente, piedra, madera, concreto,
@@ -243,9 +326,11 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
 
 ## Pendiente de saber (preguntar a David/Taufic)
 
-- Qué vamos a hacer primero (¿terminar el libro, web, landing, contenido, ads, CRM?).
+- **Ya se sabe qué va primero:** el embudo de VSL de oficinas (ver Proyectos) y la web.
+- Recibir de Taufic: el audio sobre las oficinas (base del guion), los testimonios en
+  video de oficinas y los videos de montaje.
 - Nombre completo, título, años de trayectoria, premios, prensa.
-- Web, redes, dominio, logo y manual de marca de Con Contenedores.
+- Dominio (la web anterior se dio de baja), redes, logo y manual de marca.
 - Contacto (WhatsApp, correo) y quién del equipo opera.
 - Qué son OV Road, Sigoo y el Container Door Art Festival.
 - Fecha meta del libro y quién lo diseña o maqueta.
@@ -256,6 +341,25 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
   y si se pueden publicar.
 
 ## Proyectos (lo que construyamos va aquí)
+
+### Embudo VSL · Oficinas con contenedores (acordado el 24-oct-2026, en curso)
+- **Por qué oficinas primero:** es el producto más mainstream y el público que mejor
+  conoce el equipo (empresas, buenos negocios). Las demás ramas tendrán su propio embudo
+  después.
+- **Una VSL por producto**, nunca una general: así Meta entiende a quién buscar.
+- **Embudo:** VSL de menos de 7 min → preguntas de calificación (incluye poder
+  adquisitivo) → calendario → llamada de confirmación de una persona, que filtra a los
+  "mirones" y puede cancelar o pasar a cita presencial → videollamada de venta.
+  Meta aprende de quien agenda y responde lo deseado; al inicio va lento.
+- **Sin bot** de atención por ahora: la VSL y las preguntas ya filtran.
+- **Guion:** sale de un audio de Taufic contando las oficinas como si vendiera, con
+  las objeciones de siempre. El equipo escribe el guion antes de grabar.
+- **Grabación:** VSL en la oficina de Taufic, con tomas de apoyo de oficinas
+  terminadas. Lo curioso (agua, energía, líneas de producción, la casa modular) se
+  vuelve **contenido orgánico** para "ir cargando el terreno".
+- **Producción para Meta:** diversidad creativa, es decir, varios fondos, cambios de
+  ropa y varias caras.
+- Logística, precio y prospectos: `PRIVADO.md` (solo local).
 
 ### Sitio web (v2 "Abertura" en línea desde el 25-oct-2026), borrador para revisión
 - En línea: **https://taufic-gashaan-web.vercel.app** (Vercel team Zentraly, proyecto
