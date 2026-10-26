@@ -28,8 +28,10 @@ a un repo**. A un proyecto solo se llevan derivados optimizados en `public/`.
 5. Los nombres de carpeta del Drive traen espacios al inicio o al final, y hay
    archivos sin extensión. Al bajarlos se normalizaron: se quitaron los espacios,
    se añadió `.jpg` y los duplicados quedaron como `4 (2).jpg`.
-6. Para generar thumbnails o collages **no usar ffmpeg con `-reinit_filter 0` y
-   `format=rgb24`**: voltea unas imágenes. Los originales están bien orientados.
+6. **Orientación EXIF:** `CASA CANTALAGUA/1.jpg` guarda los píxeles girados 180° y
+   se corrige con la marca EXIF (orientación 3). cwebp y otras herramientas la ignoran,
+   así que hay que rotar antes de codificar (el script de la web ya lo hace). Las
+   demás fuentes usadas tienen orientación 1.
 
 ---
 

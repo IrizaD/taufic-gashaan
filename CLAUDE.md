@@ -258,7 +258,7 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
 
 ## Proyectos (lo que construyamos va aquí)
 
-### Sitio web v1 (25-oct-2026), borrador para revisión
+### Sitio web (v2 "Abertura" en línea desde el 25-oct-2026), borrador para revisión
 - En línea: **https://taufic-gashaan-web.vercel.app** (Vercel team Zentraly, proyecto
   `taufic-gashaan-web`). Está en **noindex** hasta que Taufic lo apruebe y tenga dominio.
 - Código: `~/proyectos/taufic-gashaan-web` · repo privado **IrizaD/taufic-gashaan-web**.
@@ -282,4 +282,5 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
     a la obra; sans ligera en altas y bajas.
   - **B · Abertura** `/exploracion/b`: la foto se asoma por una rendija y se ensancha;
     serif Newsreader editorial y sans pequeña para datos.
-  - Falta que David elija; luego se rehace el sitio completo con esa dirección.
+  - **David eligió la B.** El sitio completo se rehízo en esa dirección (v2,
+    25-oct-2026) y las exploraciones se retiraron. Detalle en el README del repo.
