@@ -26,6 +26,16 @@ Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nom
 
 ---
 
+## Marca: la firma es el protagonista (David, 25-oct-2026)
+
+- **La web y las piezas son de la firma de diseño: Taufic Gashaan** (en la portada del
+  libro firma "Taufic Gashaan Exclusive Design"). **Con Contenedores es solo la
+  constructora**: aparece como quien construye y fabrica, no como la marca.
+- El contenedor es un material y un sistema constructivo de su obra, no su identidad.
+  No vestir el diseño de contenedor ni centrar el mensaje en "cajas de metal".
+- Pendiente confirmar el nombre exacto de la firma ("Taufic Gashaan Exclusive Design"
+  o solo "Taufic Gashaan").
+
 ## Quién es
 
 - **Arquitecto mexicano, especialista en arquitectura con contenedores marinos**
@@ -262,5 +272,14 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
 - **Contacto sin botones** hasta tener WhatsApp o correo (`NEXT_PUBLIC_WHATSAPP` /
   `NEXT_PUBLIC_CORREO` en Vercel). No se publican huecos.
 - Solo en español. El inglés queda para v2.
-- Pendiente de redeploy: la URL canónica y Open Graph apuntaban a
-  `taufic-gashaan.vercel.app`; ya está corregido en el repo, pero falta `vercel deploy --prod`.
+- **El repo está conectado a Vercel: push a `main` = deploy a producción.**
+- **Iteración 25-oct (David: "tosco, de mal gusto, falta fineza" + "es la web de la firma
+  de diseño; Con Contenedores es solo la constructora").** La v1 queda vetada en lo literal:
+  las puertas dibujadas con barras y placa, las mayúsculas ultracondensadas gigantes, las
+  sombras, el grano y los rótulos rojos. Hay dos exploraciones de portada, obra e índice,
+  con la firma como marca ("Taufic Gashaan · Exclusive Design"):
+  - **A · Línea** `/exploracion/a`: elevación de puerta en línea fina con cotas que se abre
+    a la obra; sans ligera en altas y bajas.
+  - **B · Abertura** `/exploracion/b`: la foto se asoma por una rendija y se ensancha;
+    serif Newsreader editorial y sans pequeña para datos.
+  - Falta que David elija; luego se rehace el sitio completo con esa dirección.
