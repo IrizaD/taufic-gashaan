@@ -1,25 +1,24 @@
-# Arq. Taufic Gashaan — Con Contenedores
+# Arq. Taufic Gashaan · Exclusive Design (construye: Con Contenedores)
 
-Cliente nuevo (alta: 25-oct-2026). Vamos a hacer muchas cosas para él (webs y
-más); todavía no hay un encargo concreto. **La memoria principal del proyecto es su
-libro "The Container Home II"** (avance de septiembre), más la carpeta de Drive con
-fotos y textos por proyecto.
+Cliente desde el 25-oct-2026. Vamos a hacer muchas cosas para él (webs y más).
+**La memoria principal del proyecto es su libro "The Container Home II"** (avance
+de septiembre), más la carpeta de Drive con fotos y textos por proyecto. Este repo
+(`IrizaD/taufic-gashaan`, privado) es la fuente única: todo el material está aquí.
 
 | Archivo | Para qué |
 |---|---|
-| Este `CLAUDE.md` | Quién es, el libro, mensaje y pendientes |
+| [README.md](README.md) | Guía para personas: qué hay y por dónde empezar |
+| Este `CLAUDE.md` | Contexto para Claude: quién es, el libro, mensaje, pendientes y proyectos |
 | [LIBRO.md](LIBRO.md) | Ficha por proyecto y testimonios textuales (fuente para copy) |
-| [ASSETS.md](ASSETS.md) | **Catálogo de imágenes** (Drive + libro), qué foto sirve para qué, equivalencias de nombres y lenguaje visual |
-| `fuentes/` | Texto crudo del libro, descripciones del Drive, manifiestos JSON de imágenes |
+| [ASSETS.md](ASSETS.md) | **Catálogo de imágenes**: qué foto sirve para qué, equivalencias de nombres y lenguaje visual |
+| `fotos/` | 174 fotos del Drive a 2000 px y 194 imágenes del libro, con galería en `fotos/README.md` |
+| `libro/` | El PDF del avance (212 pp.) |
+| `fuentes/` | Texto crudo del libro, descripciones, planos y video del Drive, manifiestos JSON |
+| `herramientas/` | `preparar_material.py` regenera `fotos/`, `libro/` y `fuentes/drive/` desde los originales |
 
-Material pesado, fuera del repo, en `~/Downloads/03-Proyectos y clientes/Taufic Gashaan/`:
-- `Libro The Container Home II/AVANCE-SEPTIEMBRE2.pdf` (212 pp., InDesign, 14 MB) y
-  `imagenes-libro/` (194 imágenes extraídas, ordenadas por sección, ~850 px).
-- `Drive fotos proyectos/` (182 archivos, 826 MB, copia del Drive
-  https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv,
-  bajada el 25-oct-2026 con `gws`).
-
-Repo: privado **IrizaD/taufic-gashaan** (solo texto; nada de media).
+Originales en resolución completa: Drive del estudio,
+https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv. En la Mac
+de David también hay una copia completa en `~/Downloads/03-Proyectos y clientes/Taufic Gashaan/`.
 
 **Regla:** todo dato sobre Taufic, sus obras o sus clientes sale del libro, del
 Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nombres.

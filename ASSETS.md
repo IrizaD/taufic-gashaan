@@ -1,15 +1,24 @@
 # Imágenes y material: catálogo para webs y piezas
 
-Hay dos fuentes de imágenes. Las dos están en
-`~/Downloads/03-Proyectos y clientes/Taufic Gashaan/` y **nunca se copian enteras
-a un repo**. A un proyecto solo se llevan derivados optimizados en `public/`.
+Hay dos fuentes de imágenes, y las dos están **copiadas en este repo** para
+trabajar sin pedir acceso a nada. Para verlas con miniaturas: [fotos/README.md](fotos/README.md).
 
-| Fuente | Ruta local | Qué es | Calidad |
+| Fuente | En el repo | Qué es | Calidad |
 |---|---|---|---|
-| **Drive (originales)** | `Drive fotos proyectos/` (826 MB, 182 archivos) | Fotos de obra, renders, planos y textos por proyecto. Parece armado para una web anterior (2021-2023; hay una carpeta "FOTOS EMPLEADOS PAGINA", vacía) | Muchas son de cámara pro (5,000-9,600 px). Algunas son de celular (≤1,600 px) |
-| **Libro (avance sept.)** | `Libro The Container Home II/imagenes-libro/<sección>/pNNN-MMM.jpg` (194 imágenes) | Las fotos tal como están maquetadas en el libro | **Baja: ~850 px de lado y 100 ppi.** Sirven para tarjetas, thumbs y referencia, no para héroes ni impresión |
+| **Drive del estudio** | `fotos/obras/<categoria>/<proyecto>/` (174 fotos) | Fotos de obra y renders por proyecto. Parece armado para una web anterior (2021-2023; hay una carpeta "FOTOS EMPLEADOS PAGINA", vacía) | Copias a **2000 px** (JPG). Los originales llegan a 5,000-9,600 px y están en el Drive. Algunas son de celular (≤1,600 px) |
+| **Libro (avance sept.)** | `fotos/libro/<seccion>/pNNN-MMM.jpg` (194 imágenes) | Las fotos tal como están maquetadas en el libro | **Baja: ~850 px de lado y 100 ppi.** Sirven para tarjetas, thumbs y referencia, no para héroes ni impresión |
 
-- Drive original: https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv
+**Cómo se nombran las carpetas en el repo.** Son las del Drive en minúsculas, sin
+acentos y con guiones: `RESIDENCIAL/CASA BOSQUE/1.jpg` →
+`fotos/obras/residencial/casa-bosque/1.jpg`; `CASA PILAR` → `casa-pilar`;
+`CASA CATALUÑA` → `casa-cataluna`; `OFICINAS YOGUI` → `oficinas-yogui`;
+`R3.beach final.jpg` → `r3-beach-final.jpg`; `4 (2).jpg` → `4-2.jpg`. En el
+catálogo de abajo se citan los nombres originales del Drive.
+Los documentos, planos (`.dwg`) y el video del Drive están en `fuentes/drive/`.
+
+- **Originales en resolución completa** (para impresión): Drive del estudio,
+  https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv
+- Para regenerar `fotos/` desde los originales: `python3 herramientas/preparar_material.py`.
 - Manifiesto por archivo (ruta, id de Drive, px, peso): [fuentes/manifest-drive.json](fuentes/manifest-drive.json)
 - Índice del libro (sección, página PDF e impresa, px): [fuentes/indice-imagenes-libro.json](fuentes/indice-imagenes-libro.json).
   Nombre `pNNN-MMM.jpg` = página del PDF (la impresa es NNN−1) y número de imagen.
@@ -28,10 +37,10 @@ a un repo**. A un proyecto solo se llevan derivados optimizados en `public/`.
 5. Los nombres de carpeta del Drive traen espacios al inicio o al final, y hay
    archivos sin extensión. Al bajarlos se normalizaron: se quitaron los espacios,
    se añadió `.jpg` y los duplicados quedaron como `4 (2).jpg`.
-6. **Orientación EXIF:** `CASA CANTALAGUA/1.jpg` guarda los píxeles girados 180° y
-   se corrige con la marca EXIF (orientación 3). cwebp y otras herramientas la ignoran,
-   así que hay que rotar antes de codificar (el script de la web ya lo hace). Las
-   demás fuentes usadas tienen orientación 1.
+6. **Orientación EXIF:** el original `CASA CANTALAGUA/1.jpg` guarda los píxeles
+   girados 180° y se corrige con la marca EXIF (orientación 3). cwebp y otras
+   herramientas la ignoran. **La copia del repo ya viene enderezada** (sin marca), y
+   el script de la web también lo corrige. Las demás fuentes tienen orientación 1.
 
 ---
 
@@ -167,9 +176,9 @@ estética de circo y fotos antiguas). No hay fotos de los locales.
 
 ### Personas
 
-- `00 Portada y preliminares/p005-002.jpg`: hombre de pie en una sala con comedor.
+- `fotos/libro/00-portada-y-preliminares/p005-002.jpg`: hombre de pie en una sala con comedor.
   **Probablemente Taufic. Confirmar antes de usarla.**
-- `01 Introduccion y prologos/p015-022.jpg`: retrato en blanco y negro en la página
+- `fotos/libro/01-introduccion-y-prologos/p015-022.jpg`: retrato en blanco y negro en la página
   "Trabajar con Taufic". **Probablemente el Arq. Gashaan Basil.**
 - No hay retrato en alta de Taufic ni fotos del equipo (la carpeta "FOTOS EMPLEADOS
   PAGINA" está vacía). **Hay que pedirlas.**
