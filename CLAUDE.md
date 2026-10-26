@@ -248,4 +248,19 @@ con la ficha técnica y folio sobre una pestaña roja. Detalle en [ASSETS.md](AS
 
 ## Proyectos (lo que construyamos va aquí)
 
-(ninguno todavía)
+### Sitio web v1 (25-oct-2026), borrador para revisión
+- En línea: **https://taufic-gashaan-web.vercel.app** (Vercel team Zentraly, proyecto
+  `taufic-gashaan-web`). Está en **noindex** hasta que Taufic lo apruebe y tenga dominio.
+- Código: `~/proyectos/taufic-gashaan-web` · repo privado **IrizaD/taufic-gashaan-web**.
+  Next.js 16, estático. README con la operación.
+- Dirección (`/estudio`): el contenedor mismo. La portada son las puertas de un
+  contenedor con la luz por la rendija; al bajar se abren y aparece Casa Bosque
+  ("De una caja de metal, un hogar."). Secciones: despacho, 6 obras destacadas con
+  testimonio y ficha, índice de las 17 obras, proceso (GDL → Colima → montaje, y la
+  maniobra de MVA), voces, institucional, Basil del Mar, el libro y contacto.
+- Imágenes: `scripts/imagenes.mjs` genera WebP desde `~/Downloads/.../Taufic Gashaan/`.
+- **Contacto sin botones** hasta tener WhatsApp o correo (`NEXT_PUBLIC_WHATSAPP` /
+  `NEXT_PUBLIC_CORREO` en Vercel). No se publican huecos.
+- Solo en español. El inglés queda para v2.
+- Pendiente de redeploy: la URL canónica y Open Graph apuntaban a
+  `taufic-gashaan.vercel.app`; ya está corregido en el repo, pero falta `vercel deploy --prod`.
