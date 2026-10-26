@@ -19,6 +19,8 @@ Material pesado, fuera del repo, en `~/Downloads/03-Proyectos y clientes/Taufic 
   https://drive.google.com/drive/folders/10NXHTbFCZiG9c5gTuqXpztqxNf6s0nwv,
   bajada el 25-oct-2026 con `gws`).
 
+Repo: privado **IrizaD/taufic-gashaan** (solo texto; nada de media).
+
 **Regla:** todo dato sobre Taufic, sus obras o sus clientes sale del libro, del
 Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nombres.
 
