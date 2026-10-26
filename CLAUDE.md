@@ -41,6 +41,35 @@ Drive o de lo que él/David confirmen. No inventar cifras, premios, años ni nom
   contenedor **sí es el producto** y va al frente, con el mensaje de lujo, modularidad,
   movilidad y rapidez (ver "Lo que dijo Taufic hijo"). La firma sigue siendo quien diseña.
 
+## Línea de comunicación central (David, 26-oct-2026)
+
+Sale de dos audios de Taufic hijo, textuales en
+[fuentes/audios-taufic-hijo.md](fuentes/audios-taufic-hijo.md). **Todo mensaje, guion, anuncio
+o página parte de aquí.**
+
+**En una frase:** construimos con un sistema de acero más resistente que el tradicional,
+diseñado completo desde el inicio, que crece por etapas y se muda contigo, porque "no es un
+producto inmobiliario sino móvil".
+
+| Pilar | Qué decir | En sus palabras |
+|---|---|---|
+| **1 · Resistencia** | El contenedor está hecho para cargar: soporta hasta 26 toneladas y se apila hasta 10 por norma. Usado para habitar o trabajar, "queda sobrado". Piso, muros y techo son de acero, el material constructivo más caro, así que el proyecto es más resistente que uno tradicional. | "Si tú quieres utilizarlos para otra cosa que no sea meter mercancía, pues quedan sobrados" |
+| **2 · Confort según el lugar** | El aislamiento térmico y acústico se calcula para cada región: no lleva el mismo una playa o una zona húmeda que un lugar con nieve. | "Se analiza y se coloca" |
+| **3 · Proyecto integral** | No vendemos contenedores: entregamos el proyecto terminado, que resuelve todas las necesidades del cliente. Lo importante es el producto final. | "Estamos enfocados en hacer proyectos integrales que cumplan las necesidades completas del cliente" |
+| **4 · Por etapas** | Se diseña el proyecto completo y se construye por partes: se empieza, por ejemplo, con una oficina y se escala según la demanda o el presupuesto. | "Se pueden construir en etapas" |
+| **5 · Inversión que se mueve** | Es móvil desde el principio. En un terreno rentado o prestado, la inversión no se pierde: cuando termina la renta, el proyecto se lleva a otra parte. | "No es un producto inmobiliario sino móvil" |
+
+**Cómo se usa:**
+- **Orden de los argumentos:** primero la resistencia (rompe el prejuicio de "caja de lámina
+  barata"), después el confort, el proyecto integral y por último las dos ventajas que no tiene
+  la obra tradicional: etapas y movilidad.
+- **Los números van tal cual:** 26 toneladas, hasta 10 apilados por norma. No redondear ni
+  inflar.
+- **"Integral" desplaza a "contenedor":** el cliente compra una oficina o una casa terminada,
+  no un contenedor.
+- **El pilar 5 es el ángulo más fuerte para oficinas:** las empresas que rentan su nave o su
+  terreno recuperan lo que invierten.
+
 ## Quién es
 
 - **Arquitecto mexicano, especialista en arquitectura con contenedores marinos**
@@ -279,7 +308,7 @@ sirve para contenido orgánico.
   te la llevas: "en vez de que la infraestructura se pierda… te llevas toda la
   infraestructura y la pones allá". Sirve para oficinas, estudios y casas.
 - **Datos técnicos que mencionó:** los contenedores usados que se compran ya sirvieron
-  20-30 años en el mar; se pueden apilar hasta diez; un contenedor de 40' mide unos 12 m;
+  20-30 años en el mar; cargan hasta 26 toneladas y se apilan hasta diez por norma (audio); un contenedor de 40' mide unos 12 m;
   se puede montar un segundo piso sobre una casa existente, con refuerzos si la casa es vieja.
 
 ### Reglas de mensaje que salieron de la reunión
