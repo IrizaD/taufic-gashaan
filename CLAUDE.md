@@ -288,6 +288,13 @@ sirve para contenido orgánico.
   vivir en un contenedor porque es más barato', sino que tengas estas bondades, este lujo,
   estos acabados". David: "No es como que el contenedor sea barato. Eso es algo que
   queremos cambiar en comunicación".
+- **Guiones y textos en voz de Taufic hijo: tono del libro, no de plantilla de VSL**
+  (David, 26-oct-2026: "esto está fatal"). Narrativo, cálido y concreto, como lo cuentan
+  el libro y sus clientes. Nada de fórmulas ("este video es para usted", "en los próximos
+  minutos te voy a enseñar", "sé lo que estás pensando", listas de "uno, dos, tres"). Nunca
+  explicar de forma torpe que padre e hijo se llaman igual: el padre entra por su historia
+  (el hijo, de niño, veía al padre "ver ventanas en un muro sólido"). Términos del libro:
+  "segundo hábitat", "darle otro uso", "cada maniobra es un reto que resolver".
 - **Lo reciclado sí, en positivo:** "darle otro uso que no fue para el que se diseñó".
 - **Ángulos que funcionan:** modular, móvil, rápido, sin obra sucia en tu casa ("no
   quieres cochinero de albañiles"), versátil.
